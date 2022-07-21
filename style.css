@@ -78,6 +78,11 @@ figure img {
     max-width: 95%;
 }
 
+#image-1 {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
