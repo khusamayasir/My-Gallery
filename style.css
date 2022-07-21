@@ -122,10 +122,6 @@ footer {
     color: #333;
 }
   
-.username-link:hover {
-    color: black;
-}
-
-.devchallenges-link:hover {
+.username-link:hover, .devchallenges-link:hover {
     color: #f7542e;
 }
