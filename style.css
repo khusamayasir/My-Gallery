@@ -47,6 +47,20 @@
     background-color: #e5e5e5;
 }
 
+.info h5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size:18px;
+}
+
+.info p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size:14px;
+    color: #a9a9a9;
+}
+  
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
