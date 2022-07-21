@@ -18,17 +18,17 @@
 }
 
 .name {
-    padding-top: 13px;
-    padding-bottom: 5px;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 24px;
+    padding-top: 13px;
+    padding-bottom: 5px;
 }
 
 .profile p {
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 14px;
-    font-family: "Montserrat", sans-serif;
     color: #a9a9a9;
 }
 
@@ -38,13 +38,13 @@
 }
 
 .info {
-    margin: 13px;
+    background-color: #e5e5e5;
     text-align: center;
     width: 100px;
     max-width: 100%;
-    padding: 8px 0;
     border-radius: 12px;
-    background-color: #e5e5e5;
+    padding: 8px 0;
+    margin: 13px;
 }
 
 .info h5 {
@@ -59,7 +59,15 @@
     font-size:14px;
     color: #a9a9a9;
 }
-  
+
+.gallery-section {
+    width: 80%;
+    margin: 100px auto;
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
 
 footer {
     font-family: "Montserrat", sans-serif;
