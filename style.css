@@ -116,6 +116,7 @@ footer {
     line-height: 10px;
     text-align: center;
     color: #BDBDBD;
+    padding-bottom: 20px;
 }
 
 .username-github-link, .devchallengelink {
