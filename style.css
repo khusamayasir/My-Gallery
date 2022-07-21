@@ -6,6 +6,17 @@
     box-sizing: border-box;
 }
 
+.profile {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.profile img {
+    max-width: 150px;
+    width: 100%;
+    border-radius: 15px;
+}
+
 .profile-info {
     display: flex;
     justify-content: center;
