@@ -69,6 +69,15 @@
     grid-template-rows: 1fr 1fr 1fr;
 }
 
+figure {
+    width: 85%;
+    display: inline-block;
+}
+
+figure img {
+    max-width: 95%;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
