@@ -1,9 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap");
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.profile-info {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    margin: 13px;
+    text-align: center;
+    width: 100px;
+    max-width: 100%;
+    padding: 8px 0;
+    border-radius: 12px;
+    background-color: #e5e5e5;
 }
 
 footer {
