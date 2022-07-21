@@ -25,6 +25,13 @@
     font-size: 24px;
 }
 
+.profile p {
+    font-weight: 600;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    color: #a9a9a9;
+}
+
 .profile-info {
     display: flex;
     justify-content: center;
